@@ -14,6 +14,6 @@ tmux config
 
 1. [tmux/tmux](https://github.com/tmux/tmux.git)
 2. [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator.git)
-3. [tmate](https://github.com/tmate-io/tmate.git)
+3. [tmate-io/tmate](https://github.com/tmate-io/tmate.git)
 4. [tmux-plugins](https://github.com/tmux-plugins)
 
