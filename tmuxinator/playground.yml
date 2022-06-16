@@ -1,4 +1,4 @@
-name: play
+name: playground
 root: ~/projects/projrctsOfInterest/java-projects
 
 
@@ -13,4 +13,4 @@ windows:
   - LeetCodeAnimation: cd LeetCodeAnimation;vim .
   - design-patterns: cd java-design-patterns;vim .
   - Java: cd Java;vim .
-  - system-design: cd ../python-projects;vim .
+  - system-design: cd ../python-projects/system-design-primer;vim .
